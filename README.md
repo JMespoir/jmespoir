@@ -13,5 +13,6 @@
 
 <hr/>
 
-Link: 👍My Blog[blogLink]
+👍My Blog[blogLink]
+
 [blogLink]: https://google.com "Go google"
