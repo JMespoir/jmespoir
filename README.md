@@ -13,4 +13,5 @@
 
 <hr/>
 
-[👍My blog]: https://jmespoir.github.io "Go google"
+Link: 👍My Blog[blogLink]
+[blogLink]: https://google.com "Go google"
