@@ -13,4 +13,4 @@
 
 <hr/>
 
-<link href = "https://jmespoir.github.io">👍My Blog</link>
+[👍My blog](https://jmespoir.github.io, "blog link")
