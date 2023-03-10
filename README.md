@@ -13,4 +13,4 @@
 
 <hr/>
 
-<link href = "https://jmespoir.github.io"
+<link href = "https://jmespoir.github.io" />
