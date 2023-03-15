@@ -15,7 +15,7 @@
 
 [👍My Blog][blogLink]
 
-[blogLink]: https://jmespoir.github.io "Go MyBlog"
+[blogLink]: https://velog.io/@maro3534 "Go MyBlog"
 
 <br/>
 
