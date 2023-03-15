@@ -13,7 +13,8 @@
 
 <hr/>
 
-[<img src="https://velog.velcdn.com/images/soojung318/post/7a7926b3-649b-4e92-b4c5-0a91a3467bf9/image.jpg" alt="My Blog" height = "50px" width = "50px>][blogLink]
+[ <img src="https://user-images.githubusercontent.com/104808174/225439600-fe66622a-6d52-4e44-ba15-c28900d718d4.png
+" width="50px" height="50px" title="" alt="👍My Blog"></img> ][blogLink]
 
 [blogLink]: https://velog.io/@maro3534 "Go MyBlog"
 
