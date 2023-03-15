@@ -13,7 +13,7 @@
 
 <hr/>
 
-<img src="https://velopert.com/wp-content/uploads/2018/09/velog.png" width="80px" height="40px" title="" alt="👍"></img>
+<img src="https://velog.velcdn.com/images/soojung318/post/7a7926b3-649b-4e92-b4c5-0a91a3467bf9/image.jpg" width="80px" height="40px" title="" alt="👍"></img>
 [My Blog][blogLink]
 
 [blogLink]: https://velog.io/@maro3534 "Go MyBlog"
