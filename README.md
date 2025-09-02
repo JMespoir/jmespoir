@@ -12,5 +12,3 @@
 
 
 <hr/>
-
-<img src="https://velog.velcdn.com/images/soojung318/post/7a7926b3-649b-4e92-b4c5-0a91a3467bf9/image.jpg" width="13px" height="13px" title="" alt="👍"></img>
