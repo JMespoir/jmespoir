@@ -1,7 +1,7 @@
 #### Hello I am Junior Develper
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{JMespoir}?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/{JMespoir}?pet-id=1" width="1000" height="400"/>
 </a>
 
 <br/>
