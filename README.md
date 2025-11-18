@@ -3,6 +3,7 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/{JMespoir}?pet-id=1" width="1000" height="400"/>
 </a>
+<hr/>
 
 <br/>
 
